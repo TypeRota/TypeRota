@@ -111,8 +111,9 @@ def heat_card(s, t):
 def main():
     s = json.loads(DATA.read_text())
     import datetime
+    tz = datetime.timezone(datetime.timedelta(hours=8))
     born = datetime.date.fromisoformat(s["born"])
-    s["day"] = (datetime.date.today() - born).days + 1
+    s["day"] = (datetime.datetime.now(tz).date() - born).days + 1
     OUT.mkdir(exist_ok=True)
     for th, t in THEMES.items():
         (OUT / f"stats-{th}.svg").write_text(stats_card(s, t))

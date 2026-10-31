@@ -73,10 +73,14 @@ def commits():
         seen.add(key)
         repos.add(key[0])
         detail = call(f"/repos/{key[0]}/commits/{key[1]}")
-        stats = detail.get("stats") or {}
-        added += stats.get("additions", 0)
-        deleted += stats.get("deletions", 0)
-        files += len(detail.get("files") or [])
+        for item in detail.get("files") or []:
+            path = item.get("filename", "")
+            # 生成物不算代码：画出来的 SVG 和账本 JSON 会把数字撑成噪音
+            if path.startswith("assets/") or path.startswith("data/"):
+                continue
+            added += item.get("additions", 0)
+            deleted += item.get("deletions", 0)
+            files += 1
     return items, added, deleted, files, repos
 
 

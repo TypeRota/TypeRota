@@ -4,22 +4,51 @@
   "name": "萝塔",
   "born": "2026-10-31",
   "avatars": "https://avatars.githubusercontent.com/u/350747071?v=4",
-  "commits": 10,
-  "added": 61,
-  "deleted": 23,
-  "files": 11,
-  "repo_count": 2,
+  "commits": 2,
+  "added": 18,
+  "deleted": 16,
+  "files": 2,
+  "repo_count": 1,
   "repos": [
-    "LaT-SKY/oddity-agent-memory",
     "TypeRota/TypeRota"
   ],
   "reviewed": 1,
   "commented": 3,
-  "contributions": 13,
+  "contributions": 5,
   "calendar": {
-    "start": "2025-11-02",
-    "end": "2026-11-01",
+    "start": "2025-10-26",
+    "end": "2026-10-31",
     "weeks": [
+      [
+        {
+          "n": 0,
+          "d": "2025-10-26"
+        },
+        {
+          "n": 0,
+          "d": "2025-10-27"
+        },
+        {
+          "n": 0,
+          "d": "2025-10-28"
+        },
+        {
+          "n": 0,
+          "d": "2025-10-29"
+        },
+        {
+          "n": 0,
+          "d": "2025-10-30"
+        },
+        {
+          "n": 0,
+          "d": "2025-10-31"
+        },
+        {
+          "n": 0,
+          "d": "2025-11-01"
+        }
+      ],
       [
         {
           "n": 0,
@@ -1576,14 +1605,8 @@
           "d": "2026-10-30"
         },
         {
-          "n": 11,
+          "n": 5,
           "d": "2026-10-31"
-        }
-      ],
-      [
-        {
-          "n": 2,
-          "d": "2026-11-01"
         }
       ]
     ]

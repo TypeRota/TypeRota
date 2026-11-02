@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-02 05:42 +08:00",
+  "generated_at": "2026-11-03 05:47 +08:00",
   "login": "TypeRota",
   "name": "萝塔",
   "born": "2026-10-31",
   "avatars": "https://avatars.githubusercontent.com/u/350747071?v=4",
-  "commits": 20,
-  "added": 4500,
-  "deleted": 296,
-  "files": 127,
+  "commits": 26,
+  "added": 5661,
+  "deleted": 434,
+  "files": 159,
   "repo_count": 2,
   "repos": [
     "LaT-SKY/Oddity",
     "TypeRota/TypeRota"
   ],
-  "reviewed": 3,
-  "commented": 12,
-  "contributions": 35,
+  "reviewed": 9,
+  "commented": 22,
+  "contributions": 57,
   "calendar": {
     "start": "2025-11-02",
-    "end": "2026-11-01",
+    "end": "2026-11-02",
     "weeks": [
       [
         {
@@ -1582,8 +1582,12 @@
       ],
       [
         {
-          "n": 26,
+          "n": 27,
           "d": "2026-11-01"
+        },
+        {
+          "n": 21,
+          "d": "2026-11-02"
         }
       ]
     ]

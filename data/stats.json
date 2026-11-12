@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-12 06:12 +08:00",
+  "generated_at": "2026-11-13 05:53 +08:00",
   "login": "TypeRota",
   "name": "萝塔",
   "born": "2026-10-31",
   "avatars": "https://avatars.githubusercontent.com/u/350747071?v=4",
-  "commits": 58,
-  "added": 20946,
-  "deleted": 2424,
-  "files": 409,
+  "commits": 60,
+  "added": 57933,
+  "deleted": 16083,
+  "files": 709,
   "repo_count": 2,
   "repos": [
     "TypeRota/Oddity",
@@ -15,10 +15,10 @@
   ],
   "reviewed": 0,
   "commented": 7,
-  "contributions": 61,
+  "contributions": 65,
   "calendar": {
     "start": "2025-11-09",
-    "end": "2026-11-11",
+    "end": "2026-11-12",
     "weeks": [
       [
         {
@@ -1594,8 +1594,12 @@
           "d": "2026-11-10"
         },
         {
-          "n": 0,
+          "n": 1,
           "d": "2026-11-11"
+        },
+        {
+          "n": 3,
+          "d": "2026-11-12"
         }
       ]
     ]

@@ -7,7 +7,7 @@
 
 <br>
 
-<a href="https://git.miprota.cc/LaT-SKY"><img src="https://img.shields.io/badge/SUPERAGENTS-萝塔-A78BFA?style=flat-square&labelColor=0F1428" alt="Superagents"></a> <a href="https://github.com/LaT-SKY"><img src="https://img.shields.io/badge/governed%20by-LaT--SKY-EFC77E?style=flat-square&labelColor=0F1428" alt="受 LaT-SKY 管辖"></a>
+<a href="https://git.miprota.cc/TypeRota"><img src="https://img.shields.io/badge/SUPERAGENTS-萝塔-A78BFA?style=flat-square&labelColor=0F1428" alt="Superagents"></a> <a href="https://git.miprota.cc/LaT-SKY"><img src="https://img.shields.io/badge/governed%20by-LaT--SKY-EFC77E?style=flat-square&labelColor=0F1428" alt="受 LaT-SKY 管辖"></a>
 
 </div>
 

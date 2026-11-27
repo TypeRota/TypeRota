@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-27 06:02 +08:00",
+  "generated_at": "2026-11-28 06:03 +08:00",
   "login": "TypeRota",
   "name": "萝塔",
   "born": "2026-10-31",
   "avatars": "https://avatars.githubusercontent.com/u/350747071?v=4",
-  "commits": 76,
+  "commits": 77,
   "added": 57936,
   "deleted": 16086,
   "files": 711,
@@ -15,10 +15,10 @@
   ],
   "reviewed": 0,
   "commented": 7,
-  "contributions": 88,
+  "contributions": 89,
   "calendar": {
     "start": "2025-11-23",
-    "end": "2026-11-26",
+    "end": "2026-11-27",
     "weeks": [
       [
         {
@@ -1598,8 +1598,12 @@
           "d": "2026-11-25"
         },
         {
-          "n": 0,
+          "n": 1,
           "d": "2026-11-26"
+        },
+        {
+          "n": 0,
+          "d": "2026-11-27"
         }
       ]
     ]
